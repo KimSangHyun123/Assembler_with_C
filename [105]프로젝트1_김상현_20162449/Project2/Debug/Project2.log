@@ -1,0 +1,6 @@
+﻿  my_assembler_20162449.c
+C:\Users\tticj\Desktop\System_software\HW3_source\my_assembler_20162449.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\tticj\Desktop\System_software\HW3_source\my_assembler_20162449.c(297,42): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\tticj\Desktop\System_software\HW3_source\my_assembler_20162449.c(300,41): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\tticj\Desktop\System_software\HW3_source\my_assembler_20162449.c(304,41): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  Project2.vcxproj -> C:\Users\tticj\source\repos\Project2\Debug\Project2.exe
